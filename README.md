@@ -1,2 +1,3 @@
 # hello-world
 I'm just doing this cause it wants me to
+But, Hello. My name is mason. I'm a High School student and learning to code because I want to make video games. The reason I want to is because as a kid, like most, I was in love and facinated by games. How they were made and the dedication to them, the variety in all these games. My favorite game would have to be a game called Wizard101. This game just had so much variety and its attacking system was the most unique thing i've seen even today. I strive to become like this, and make a game where its fun and will last a strong decade just like Wizard.
